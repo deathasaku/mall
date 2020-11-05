@@ -10,6 +10,7 @@ import com.macro.mall.model.OmsOrderOperateHistory;
  * 订单操作记录自定义Dao Created by macro on 2018/10/12.
  */
 public interface OmsOrderOperateHistoryDao {
+	// 我是大便 2ㄏ// 我是大便 2ㄏ// 我是大便 2ㄏ
 	/**
 	 * 批量创建 隨便啦 2ㄏ
 	 */
