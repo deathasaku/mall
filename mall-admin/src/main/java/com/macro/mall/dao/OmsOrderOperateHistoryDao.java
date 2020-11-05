@@ -16,5 +16,6 @@ public interface OmsOrderOperateHistoryDao {
 	// ㄆ斯ㄆ 斯
 	String a = "1";
 
+	// 我是大便 2ㄏ// 我是大便 2ㄏ// 我是大便 2ㄏ// 我是大便 2ㄏ// 我是大便 2ㄏ
 	int insertList(@Param("list") List<OmsOrderOperateHistory> orderOperateHistoryList);
 }
